@@ -1,7 +1,6 @@
 # Frontend Mentor - Order summary card solution
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -30,9 +29,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Dekstop Design preview for the Order summary card coding challenge](./Screenshot/Desktop-Preview.jpg)
-![Mobile Design preview for the Order summary card coding challenge](./Screenshot/Mobile-Preview.jpg)
-
+![Dekstop Design preview for the Order summary card coding challenge](./ScreenShot/Desktop-Preview.jpg)
+![Mobile Design preview for the Order summary card coding challenge](./ScreenShot/Mobile-Preview.jpg)
 
 ## My process
 
@@ -49,7 +47,6 @@ With the help of this project i able to practice my CSS and HTML skills very wel
 
 ## Author
 
-- Linkedin - [Anish Kumar Mohanty](www.linkedin.com/in/anish-kumar-mohanty-68a019216)
+- Linkedin - [Anish Kumar Mohanty](https://www.linkedin.com/in/anish-kumar-mohanty-68a019216/)
 - Frontend Mentor - [@Anish010](https://www.frontendmentor.io/profile/Anish010)
-- Instagram - [@anish.mohanty_](https://www.instagram.com/anish.mohanty_/)
-
+- Instagram - [@anish.mohanty\_](https://www.instagram.com/anish.mohanty_/)
