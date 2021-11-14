@@ -1,0 +1,208 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: hsl(223, 100%, 95%);
+  background-color: hsl(221, 83%, 95%);
+  background-image: url(images/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.card {
+  background-color: #fff;
+  display: flex;
+  margin: auto;
+  width: 430px;
+  height: 630px;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.CardImage {
+  background-image: url(images/illustration-hero.svg);
+  height: 200px;
+  background-position: center;
+}
+
+.CardBody {
+  text-align: center;
+  padding: 40px 30px 30px 30px;
+}
+.CardBody > p {
+  margin-bottom: 30px;
+  margin-top: 20px;
+  padding: 0 32px;
+  font-size: 16px;
+  font-weight: 500;
+  color: hsl(224, 29%, 61%);
+}
+.CardBody > h1 {
+  font-size: 30px;
+  font-family: "Red Hat Display", sans-serif;
+  color: hsl(223, 47%, 23%);
+  font-weight: 900;
+}
+
+.alert {
+  background-color: hsl(225, 80%, 96%);
+  display: flex;
+  padding: 0px;
+  align-items: center;
+}
+.alert > img {
+  margin-left: 20px;
+}
+.AnnualPlan {
+  margin-top: 15px;
+  margin-left: 20px;
+  color: hsl(223, 47%, 23%);
+}
+.AnnualPlan > p {
+  color: hsl(224, 23%, 55%);
+  font-weight: 500;
+  color: hsl(224, 29%, 61%);
+}
+.AnnualPlan > h4 {
+  color: hsl(223, 47%, 23%);
+  font-weight: 900;
+  font-size: 15px;
+  margin-bottom: 4px;
+}
+
+.ChangePlan {
+  margin-left: 100px;
+  color: hsl(245, 75%, 52%);
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: underline;
+  border: none;
+  background: none;
+  padding: 0;
+}
+
+.Proceed {
+  margin: 10px 0px 25px 0px;
+  background: hsl(245, 75%, 52%);
+  color: #fff;
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 0 15px 20px hsl(245deg 90% 60% / 32%);
+}
+
+.Cancel {
+  margin-top: 5px;
+  color: hsl(224, 23%, 55%);
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  border: none;
+  background: none;
+  padding: 0;
+}
+
+@media (min-width: 500px) and (max-width: 600px) {
+  body {
+    background-image: url(images/pattern-background-mobile.svg);
+  }
+
+  .card {
+    width: 400px;
+    max-width: 450px;
+  }
+
+  .CardBody {
+    padding: 2rem;
+  }
+
+  .CardBody > h1 {
+    font-size: 25px;
+  }
+
+  .CardBody > p {
+    font-size: 14px;
+    padding: 0 15px;
+  }
+
+  .alert {
+    font-size: 12px;
+  }
+
+  .ChangePlan {
+    margin-left: 70px;
+  }
+}
+
+@media (min-width: 420px) and (max-width: 499px) {
+  body {
+    background-image: url(images/pattern-background-mobile.svg);
+  }
+
+  .card {
+    width: 350px;
+    height: 580px;
+    max-width: 350px;
+  }
+
+  .CardBody {
+    padding: 20px;
+  }
+
+  .CardBody > h1 {
+    font-size: 22px;
+  }
+
+  .CardBody > p {
+    font-size: 13px;
+    padding: 0 15px;
+  }
+
+  .alert {
+    font-size: 10px;
+  }
+
+  .ChangePlan {
+    margin-left: 50px;
+  }
+}
+
+@media (max-width: 420px) {
+  body {
+    background-image: url(images/pattern-background-mobile.svg);
+  }
+
+  .card {
+    width: 300px;
+    height: 500px;
+    max-width: 300px;
+  }
+
+  .CardBody {
+    padding: 20px;
+  }
+
+  .CardBody > h1 {
+    font-size: 20px;
+  }
+
+  .CardBody > p {
+    font-size: 10px;
+    padding: 0 15px;
+  }
+
+  .AnnualPlan > h4 {
+    font-size: 13px;
+  }
+  .alert {
+    font-size: 10px;
+  }
+
+  .ChangePlan {
+    font-size: 13px;
+    margin-left: 35px;
+  }
+}
