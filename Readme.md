@@ -7,13 +7,13 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Link](#Link)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -31,6 +31,10 @@ Users should be able to:
 
 ![Dekstop Design preview for the Order summary card coding challenge](./ScreenShot/Desktop-Preview.jpg)
 ![Mobile Design preview for the Order summary card coding challenge](./ScreenShot/Mobile-Preview.jpg)
+
+### Link
+- Solution URL : [https://github.com/Anish010/Order-Summary-Component.git]
+- Live Site URL : [https://anish010.github.io/Order-Summary-Component/]
 
 ## My process
 
