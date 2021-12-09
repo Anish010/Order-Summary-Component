@@ -52,5 +52,4 @@ With the help of this project i able to practice my CSS and HTML skills very wel
 ## Author
 
 - Linkedin - [Anish Kumar Mohanty](https://www.linkedin.com/in/anish-kumar-mohanty-68a019216/)
-- Frontend Mentor - [@Anish010](https://www.frontendmentor.io/profile/Anish010)
 - Instagram - [@anish.mohanty\_](https://www.instagram.com/anish.mohanty_/)
